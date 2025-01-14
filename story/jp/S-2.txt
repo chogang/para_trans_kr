@@ -1,0 +1,77 @@
+Background illust/PipeTunnel
+
+Character ログ
+Tachie ON 络 1-0w&1-3w R
+DefaultText
+ピー……ピピピ……
+
+Character アルカイド
+Tachie ON 摇光 默认 R
+DefaultText
+探してるものじゃなかったか。大丈夫だよログ、先に進もう。
+
+Character リン
+Tachie ON 林 默认 R
+DefaultText
+先に進むんですか？
+
+Character アルカイド
+Tachie ON 摇光 默认 R
+DefaultText
+うん、ここには管道がたくさんあって、大まかな座標とヒントがあっても具体的な場所が分かりにくい。
+
+Character アルカイド
+Tachie ON 摇光 沉思 R
+DefaultText
+“文明の血管の中”、それにこの座標、多分この管道のどれかだ……
+
+Character ユン
+Tachie ON 云 默认 R
+DefaultText
+じゃあこっちに行ってみましょうか？文明の血液と言えば川だと思うけど、文明の血管と言えば給水管道でしょう。私たちはずっと電線を探してたけど。
+
+Character アルカイド
+Tachie ON 摇光 沉思 R
+DefaultText
+現代文明の観点からすれば、電気を文明の血液と言ってもおかしくない。でもユン姉さんの言う通りだね、こんなに探しても見つからないし、あっちに行ってみよう。
+
+Character パラ
+Tachie ON Para 为难 R
+DefaultText
+これらの電線は拠点に通じてるんですか？廃棄されてるみたいですけど。
+
+Character ユン
+Tachie ON 云 默认 R
+DefaultText
+正確に言えば停止させてるんだ。
+
+DefaultText
+拠点に通じているというよりは、拠点から外界に通じているんだ。災害が起きた時、生産や救援を維持するために、一時的に架設された電線が多かった。義体病院みたいな施設専用だった。
+
+Character ユン
+Tachie ON 云 沉思 R
+DefaultText
+でもその後のことは知ってるよね。あれは普通の義体医療では解決できない問題だった。患者が医療ネットワークに接続する瞬間に制御中枢と対応する医療者を汚染した。医療ネットワークが独立したチャンネルを使っても無駄だった。
+
+DefaultText
+無人都市の運転にエネルギーを使わないようにするために、私たちは都市中を探して生存者や休眠中の義体を集めて発電所拠点に移動させ、都市への供給を切断したんだ。
+
+Character 云
+Tachie ON 云 苦笑 R
+DefaultText
+でも結局は小型の原子力発電所だったし、最初は特殊な状況下での都市の予備電源として設計されたものだから、燃料は限られていた。私たちは発電所を改造して、電力供給を拠点の核心機能に集中させた。発電能力も生存に必要な最低限度でしかなかった。
+
+NoCharacter
+Tachie OFF
+DefaultText
+【そう言って、ユンは通路の半分を占める空の管道を叩いた。鐘よりも重苦しい音だが、水管を叩く音は地下空間に響き渡った。】
+
+Character パラ
+Tachie ON Para 默认 R
+DefaultText
+前方20メートルのところに振動の異常があります。
+
+Character 云
+Tachie ON 云 微笑 R
+DefaultText
+おお、管内点検用の入口みたいだね……ここだ、見つけた。
