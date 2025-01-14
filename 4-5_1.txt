@@ -1,0 +1,312 @@
+Background illust/0014气象塔外围
+PlayBGM normal 1.0
+
+Character Corian
+Tachie ON 珂莉安 04超高兴 Mid
+DefaultText
+Here, here. Thanks, guys! Let me brief you in on the major structure and construction method of the weather tower... Huh?
+
+Character Yun
+Tachie ON 云 默认微笑 Mid
+DefaultText
+Forget those - we're a team of professionals. Just share the floor plans.
+
+Character Corian
+Tachie ON 珂莉安 00底图 Mid
+DefaultText
+Yeah. Sure. Sure.
+
+Character Yun
+Tachie ON 云 默认微笑 Mid
+DefaultText
+Alright, y'all. Pack up your repellers and safety cables. We're headed to the towers.
+
+Character Yun
+Tachie ON 云 默认微笑 Mid
+DefaultText
+High altitude guarantees freezing air, so watch your sleeves and collars.
+
+Character Yun
+Tachie ON 云 严肃认真 Mid
+DefaultText
+Oi! You there! Watch it! If this knots up, things can go south real quick!
+
+TransiteBackground 0.3 illust/0014x塔外-开门
+
+Character Para
+Tachie ON ParaC4NEW 01常规 Mid
+DefaultText
+Log, data entry, batch three.
+
+Character Log
+Tachie ON 络 1-0b&1-xb Mid
+DefaultText
+Bzzz. Bzzz.!
+
+Character Para
+Tachie ON ParaC4NEW 01常规 Mid
+DefaultText
+Tower edge standard difference check. 0.05% tolerance. Proceed with tuning.
+
+Character Para
+Tachie ON ParaC4NEW 01常规 Mid
+DefaultText
+Young's module delta from previous measurement shows greater than 0.7%. Proceed with measurement.
+
+Character Para
+Tachie ON ParaC4NEW 01常规 Mid
+DefaultText
+Insufficient flow compensation tolerance. Proceed with fitting.
+
+Character Para
+Tachie ON ParaC4NEW 01常规 Mid
+DefaultText
+...
+
+Character Para
+Tachie ON ParaC4NEW 04严肃 Mid
+DefaultText
+For the sake of everyone, we need to lower all accident chances to the bottom.
+
+Character Log
+Tachie ON 络 1-0b&1-2b Mid
+DefaultText
+Bzzz.
+
+NoCharacter
+Tachie OFF
+DefaultText
+【Umar sits not far from the busy crowd, sighing quietly.】
+
+DefaultText
+【It might have been the stretched dullness of trying to decipher the tower all by her self that made her forget about asking help from others.】
+
+DefaultText
+【It may have been that the young man has too ambitious of a plan, or it may be that she's still in shock that so many souls can aim toward such a crazy plan - she sighs.】
+
+SelectText1 Right-hand side over. Do a twitch.
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Yeah... sure.
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Looks good enough. Feels about the same if I close my eyes.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+Roger. I'll do the same for the left, then... Speaking of which, why do you keep looking that-a way?
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Nothing, I wonder how they're doing... Where is everybody?
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+Left for the tower half an hour ago. I mean... Come on.
+
+Character Umar
+Tachie ON 欧默 05嘴硬/辩解 Mid
+DefaultText
+I... Haha. I can't quite face the sight of my own arm getting taken apart.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+Aha. Different folks come with different acceptance. It's more than counter-intuitive to ask a human to see cogs and springs inside them, so you can't blame anyone for not bearing the sight.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+However, I do have to say it's quite a rare symptom nowadays, as we're two hundred years into body mods. Let me see...
+
+Character Umar
+Tachie ON 欧默 05嘴硬/辩解 Mid
+DefaultText
+Woah... Don't get started on your lectures again. It feels like when I first got a mod when I was a kid...
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+How did that prep shot treat you?
+
+Character Umar
+Tachie ON 欧默 05嘴硬/辩解 Mid
+DefaultText
+What about it? What's wrong with not liking a needle under your skin?
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+No. I'm rather interested in what that feels like. You know, when you go through a lot of mods in a short period of time, you have to go through that many shots. You can still swing your arms around, but I think you're not supposed to feel anything starting from your neck.
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+...
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Right. You hibernated with that chick for like what? Two decades?
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Who is she? Your family? A friend?
+
+SelectText2 This... Well... A Friend? Sorta.|F-family? No... Not Really.
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+What's with the stutter?
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+Ugh... Where do I start...
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+Back then, I lived with my parents in the lab. She was a kid from the orphanage nearby.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+The lab collabed with the orphanage in some way, so folks knew each other quite well.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+I wasn't exactly the most sporty kid, and my parents were quite worried about my safety. She did come around and play with me, though. She was the one that brought me all the interesting trinkets she found out there.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+She even sneaked me out for adventures. Bug catching, tree climbing, soccer... We weren't related in any way, but we sure felt... Connected.
+
+Character Umar
+Tachie ON 欧默 02惊讶 Mid
+DefaultText
+Wait. I thought you said you didn't move around much.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+Haha... Now that I think of it, it sure was wild. The two of us got scolded by the lab and the orphanage quite often.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+But hey. I was grateful for her presence in my life. Without her, I'd have been missing out on so many things that kids of that age were entitled to.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+She's... She's so very special to me.
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+...
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Like family, I suppose?
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+Huh?
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Like you said, you felt connected.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+We weren't related, though.
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Does that matter so much anyway?
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+...
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Me and Mariah, we were from the orphanage as well. Nobody knew who our parents were, nor did anybody care.
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+I was quite a troublemaker back then. I fought her, and girl I fought hard. Bit by bit, we started to know each other.
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Now, she's my only family.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+So that's how.
+
+Character Umar
+Tachie ON 欧默 03微笑 Mid
+DefaultText
+Or do you think family isn't where this ends?
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+...!
+
+NoCharacter
+Tachie OFF
+DefaultText
+【As the body mod tunings are done, the sensors and capacitors start functioning. Umar shakes herself and looks up at the towers.】
+
+Character Umar
+Tachie ON 欧默 00底图 Mid
+DefaultText
+Alright. I'll be working on that capacitor and the... The... Yeah. The scouting.
+
+Character Umar
+Tachie ON 欧默 03微笑 Mid
+DefaultText
+Likewise for you. Get to work. I'm trusting my family on you.
+
+Character Alkaid
+Tachie ON 摇光C4NEW 默认 Mid
+DefaultText
+Yeah. You have my promise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
