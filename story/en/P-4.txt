@@ -1,0 +1,86 @@
+Background illust/10001Classroom
+
+PlayBGM 记忆底噪 1.0
+
+Character ？？？
+Tachie ON 川野 默认 R
+Even so, I'd...
+
+Character One of the bullies
+Tachie ON 男同学A 默认 R
+DefaultText
+Hey! What the hell?
+
+Character Me
+Tachie OFF
+DefaultText
+Why do you have to bother her like this?
+
+Character The desk sitter
+Tachie ON 女同学A 默认 R
+DefaultText
+You're the one that makes it hard for everyone right here, you see.Don't tell me you sleep with those slimy bugs like Kawano.
+
+Character Me
+Tachie OFF
+DefaultText
+Not as if you didn't make up a random reason to pick on someone!
+
+NoCharacter
+Tachie OFF
+DefaultText
+【The gang laughed in my face. Kawano finally couldn't take it anymore. She clenched her fists and stood up.】
+
+DefaultText
+【The pocket fumbler finally got to pull out the dying butterfly, but I was quick enough to stop him...】
+
+DefaultText
+【…】
+
+DefaultText
+【Now that I think about this, it all happened a year ago.】
+
+DefaultText
+【Not gonna lie, but I might get to appreciate myself for a lifetime to come. What I did back then got our teachers and parents notice the bullying that had been going on.】
+
+DefaultText
+【That gave Kawano and I a chance to find someone with the heart to mind our voices. Long story short, nobody picked on Kawano ever again...】
+
+DefaultText
+【As I go on with the recall, Kawano brings me to a park not far from downtown.】
+
+TransiteBackground 0.3 illust/10002Park
+
+NoCharacter
+Tachie OFF
+DefaultText
+【Boy, is this a quiet place in a human sense. A closer look tells a different story - planted flowers, unruly weeds, twisty trees, colorful birds, and even a few stray cats.】
+
+Character Kawano
+Tachie ON 川野 默认 R
+DefaultText
+Thanks for the book you borrowed me.I got to know quite a few insects that I never knew existed. That was a blast.
+
+DefaultText
+Tiny these creatures might be... They still have their life, their habits, their love and hate. Look at them go.
+
+DefaultText
+They might not seem much, but I will swear my life to protecting them.
+
+DefaultText
+Do you ever wonder what's going on inside their head?
+
+NoCharacter
+Tachie OFF
+DefaultText
+【The flowers wag in the chilly autumn breeze. In no time, a cloud of golden butterflies surround the place.】
+
+Character Kawano
+Tachie ON 川野 默认 R
+DefaultText
+I don't think I can somehow go on without saying this to you... Thank you. Thank you for helping me survive that period of time and supporting me be me.
+
+NoCharacter
+Tachie OFF
+DefaultText
+【This should be the shiniest butterfly I will never forget for the rest of my life.】
