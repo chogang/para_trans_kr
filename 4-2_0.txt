@@ -1,0 +1,424 @@
+Background illust/0014x走廊-亮
+PlayBGM MagdalenaIntro 1.0
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+How's it going on your end, Mariah?
+
+Character Mariah
+Tachie ON 玛莉亚 03忍哭 Mid
+DefaultText
+Every department has a few men down, and the security protocol is on lockdown. I tried all the emergency channels, but all is negative as of right now.
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+Copy. I will connect to the global internet to send out distress signals.
+
+Character Corian
+Tachie ON 珂莉安 05超大哭 Mid
+DefaultText
+No. Wait!
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+Yes?
+
+Character Corian
+Tachie ON 珂莉安 05超大哭 Mid
+DefaultText
+Don't try to connect to the global internet! The security department tried that before, but that knocked them out like everyone else...…
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+Aw, shucks...
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+This means the global internet might be the bane of their coma...
+
+Character Mariah
+Tachie ON 玛莉亚 03忍哭 Mid
+DefaultText
+Do we have to sit and wait then?
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+To think of it from another direction... If the problem lies in the global internet...
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+Do you mean...
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+No. Nothing. Gimme a hand, Mariah. Let turn our phone line into a local network.
+
+Character Corian
+Tachie ON 珂莉安 05超大哭 Mid
+DefaultText
+Before this, I'll go around to let everyone know not to try the global network.
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+Yeah. I'll trust you with scoping and gathering the coma units as well.
+
+NoCharacter
+Tachie OFF
+DefaultText
+【Time flows by over and beside the tower, leaving the inside frozen and untouched for what feels like an eon.】
+
+DefaultText
+【Bit by bit, those trapped in this tower start to worry less about how long they have been kept inside. From time to time, a few of them gather at the ancient clock in the hall, waiting for a miracle to save them from the sea of boredom as the pointers collide again.】
+
+DefaultText
+【Corian, however, doesn't seem to fit into this slumber all too well. The lab never has been a rowdy place, but all the staff working around her gave her a quiet sense of liveliness nonetheless.】
+
+DefaultText
+【The dead silence now is at the point of breaking her - she starts to tap around with a wrench subconsciously just to make some noise.】
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+Ahem.
+
+Character Corian
+Tachie ON 珂莉安 00底图 Mid
+DefaultText
+Mariah? Why are you here?
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+Been here all along.
+
+Character Corian
+Tachie ON 珂莉安 01认真严肃 Mid
+DefaultText
+Then why wouldn't you make a sound? You spooked me...
+
+Character Mariah
+Tachie ON 玛莉亚 02张嘴笑 Mid
+DefaultText
+I thought you were aiming for a tempo. I was waiting for that diss track to drop.
+
+Character Corian
+Tachie ON 珂莉安 02担忧 Mid
+DefaultText
+Oh, sweetheart... You don't have to make fun of me at such a moment!
+
+NoCharacter
+Tachie OFF
+DefaultText
+【Pow!】
+
+DefaultText
+【A dull metal clash shook the two.】
+
+Character Mariah
+Tachie ON 玛莉亚 02张嘴笑 Mid
+DefaultText
+Alright, alright. I was trying to make some fun out of this. If things keep going like this, people will all get eaten alive by their fear...
+
+Character Mariah
+Tachie ON 玛莉亚 02张嘴笑 Mid
+DefaultText
+I'm not gonna do this again, I swear. And please. Go easier on that console...
+
+Character Corian
+Tachie ON 珂莉安 02担忧 Mid
+DefaultText
+...
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+What?
+
+Character Corian
+Tachie ON 珂莉安 02担忧 Mid
+DefaultText
+That noise a few seconds back... That wasn't me.
+
+TransiteBackground 0.3 illust/0014x走廊-暗
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+What? What's going on?
+
+Character Researcher B
+Tachie ON 研究员B 默认 Mid
+DefaultText
+Another one outta his mind! This is unbelievable!
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+Calm down. One thing at a time.
+
+Character Researcher B
+Tachie ON 研究员B 默认 Mid
+DefaultText
+He tried to rip prosthetics off those in coma! This is murdering!
+
+Character Researcher C
+Tachie ON 研究员C 默认 Mid
+DefaultText
+Murder, you say? My arm has missed so much maintenance that it went dead. What's the meaning of keeping those down if we can't make it out of here alive in the first place?
+
+Character Researcher C
+Tachie ON 研究员C 默认 Mid
+DefaultText
+Let reality sink in. Nobody's coming to save us. We are the only ones that can take them out alive! You! And Me!
+
+Character Researcher B
+Tachie ON 研究员B 默认 Mid
+DefaultText
+I get it! I get it! Don't make me face this again!
+
+Character Researcher C
+Tachie ON 研究员C 默认 Mid
+DefaultText
+If this is all you bother to care, everyone will die here!
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+Stop! Here. Use mine.
+
+Character Researcher C
+Tachie ON 研究员C 默认 Mid
+DefaultText
+How are you... Wait a minute. What was that?
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+I thought your arm was dead, right? Take mine.
+
+Character Mariah
+Tachie ON 玛莉亚 03忍哭 Mid
+DefaultText
+No. Wait...
+
+Character Researcher C
+Tachie ON 研究员C 默认 Mid
+DefaultText
+What about yourself?
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+The dictating algorithm is a brain-structure computer with ample calculation power.
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+I planted in a sub system quarantined from all the discs. To a certain degree, this thing should be compatible with digitized brains.
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+I can upload my mind and carry over my life there. After that, feel free to pick whatever you want.
+
+Character Researcher C
+Tachie ON 研究员C 默认 Mid
+DefaultText
+No... No, no, no. I didn't mean that!
+
+Character Researcher C
+Tachie ON 研究员C 默认 Mid
+DefaultText
+I'm not gonna scrap for an arm ever again! Please don't do this! The rescue team will be here any minute! Don't give up. I beg you...
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+Ha. The rescue team. When is that happening?
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+I know most of you have already lost track of how long we have been locked up in here, but I still remember! Thirty years! We were locked away for thirty years!
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+I can't wait a minute more... This is about all I care to do. I need a break...
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+That guy on the ground has no chance to consent, but I do. I can donate all my prosthetics for parts. Case closed.
+
+Character Corian
+Tachie ON 珂莉安 02担忧 Mid
+DefaultText
+This went down real quick...
+
+Character Mariah
+Tachie ON 玛莉亚 03忍哭 Mid
+DefaultText
+...
+
+TransiteBackground 0.3 illust/0014x走廊-拐角处
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+You don't have to put it like that. You see, everyone here knows what you're talking about.
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+…
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+This tower is practically a container of a whole house of broken people, and everyone knows that. Once prosthetics are taken for parts, it's gonna be a slippery slope from this point on.
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+By the time everything burns out, we'll go down together as a pack of barbarians mashing each other's brain out.
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+Better leave early before taking up too much resource for the young. So typical of an old mind.
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+…
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+Say, have you got many life regrets so far?
+
+Character Mariah
+Tachie ON 玛莉亚 04认真 Mid
+DefaultText
+Not that I can finish counting them by the end of the day, which is why I can't say yes to any self sacrifices. An upload with the technology we've got? You get practically no chance for a recovery.
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+Right. Slimmer chance than making it out of here.
+
+Character Mariah
+Tachie ON 玛莉亚 03忍哭 Mid
+DefaultText
+You've got a few undone wishes as well, don't you?
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+Yeah. About as many as yours if not more.
+
+Character Researcher A
+Tachie ON 研究员A 默认 Mid
+DefaultText
+No sacrifices, then nobody gets to walk out of here alive. Not even a single wish matters anymore.
+
+TransiteBackground 0.3 illust/0014x中控室
+
+NoCharacter
+Tachie OFF
+DefaultText
+【Everyone here dreamt about a way of escape with no sacrifices at one point or another.】
+
+DefaultText
+【In one form or another, such is the greed of the humankind.】
+
+DefaultText
+【And for such a particular reason, anyone trying to sacrifice themselves would never lack good sarmaritans stopping them.】
+
+DefaultText
+【Anyhow, facing such a dire situation, the martyrs still don't hesitate to gouge their hearts out and lay them flat on the scale of justice. Anything for a better survival chance on everyone else.】
+
+DefaultText
+【The humankind, to a certain degree, survived upon such sacrifices, but inside these military-grade locked down walls, there is nobody left to compose an anthem for the martyrs.】
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+It's about time my prosthetics give up as well...
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+I can't leave Corian alone, but I don't have enough core parts left in me to be worthy of any resources anymore. Leave it for the other two...
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+I still remember how I told her the story of the elephant graveyard. We're behaving exactly the same, not that I'm comparing these fine ladies to elephants...
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+Right. Not as much as 500 years old yet. Still fine ladies at their prime.
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+I'm nothing different from those manga protagonists. I've got loads of daydreams to finish.
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+Say, if I upload myself to the algorithm, will I dream about electronic sheep?
+
+Character Mariah
+Tachie ON 玛莉亚 00默认 Mid
+DefaultText
+And yeah... Please don't be mad about me messing the prosthetics up...
+
+NoCharacter
+Tachie OFF
+DefaultText
+【…】
+
+Character Mariah
+Tachie ON 玛莉亚 03忍哭 Mid
+DefaultText
+Make a sound. This is scaring me for real...
+
+Character Mariah
+Tachie ON 玛莉亚 03忍哭 Mid
+DefaultText
+Please. Even if it's just a bit of statics. Speak to me...
+
+Character Mariah
+Tachie ON 玛莉亚 03忍哭 Mid
+DefaultText
+Please, oh please. Talk to me. Don't make me cry out loud... If Corian sees me going out crying, she'll get scared, too.
+
+TransiteBackground 0.3 illust/00000Black
+
+NoCharacter
+Tachie OFF
+DefaultText
+【Suppressed and twisted sobs fill the control room.】
+
+NoCharacter
+Tachie OFF
+DefaultText
+【Everything goes back to silence until the last one left alive eventually finding her only friend and her will.】
+
+DefaultText
+【Goodbye, Corian.】
+
+DefaultText
+【After countless days of being tortured by her memories, Corian opens her eyes.】
